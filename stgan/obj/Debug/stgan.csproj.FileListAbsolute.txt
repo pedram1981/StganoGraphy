@@ -1,0 +1,53 @@
+C:\Users\Pedram\Documents\Visual Studio 2008\Projects\stgan\stgan\bin\Debug\stgan.exe
+C:\Users\Pedram\Documents\Visual Studio 2008\Projects\stgan\stgan\bin\Debug\stgan.pdb
+C:\Users\Pedram\Documents\Visual Studio 2008\Projects\stgan\stgan\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pedram\Documents\Visual Studio 2008\Projects\stgan\stgan\obj\Debug\stgan.Form1.resources
+C:\Users\Pedram\Documents\Visual Studio 2008\Projects\stgan\stgan\obj\Debug\stgan.Properties.Resources.resources
+C:\Users\Pedram\Documents\Visual Studio 2008\Projects\stgan\stgan\obj\Debug\stgan.csproj.GenerateResource.Cache
+C:\Users\Pedram\Documents\Visual Studio 2008\Projects\stgan\stgan\obj\Debug\stgan.exe
+C:\Users\Pedram\Documents\Visual Studio 2008\Projects\stgan\stgan\obj\Debug\stgan.pdb
+C:\Users\Pedram\Documents\Visual Studio 2008\Projects\stgan\stgan\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Pedram\Documents\Visual Studio 2008\Projects\stgan\stgan\obj\Debug\stgan.main.resources
+C:\Users\Pedram\Documents\Visual Studio 2008\Projects\stgan\stgan\obj\Debug\stgan.CODING.resources
+C:\Users\Pedram\Documents\Visual Studio 2008\Projects\stgan\stgan\obj\Debug\stgan.DECODING.resources
+D:\program\c#\proje_2008\متن_تصویر\stgan\stgan\obj\Debug\stgan.exe
+D:\program\c#\proje_2008\متن_تصویر\stgan\stgan\obj\Debug\stgan.pdb
+D:\program\c#\proje_2008\متن_تصویر\stgan\stgan\bin\Debug\stgan.exe
+D:\program\c#\proje_2008\متن_تصویر\stgan\stgan\bin\Debug\stgan.pdb
+D:\program\c#\proje_2008\متن_تصویر\stgan\stgan\bin\Debug\DevComponents.DotNetBar2.dll
+D:\program\c#\proje_2008\متن_تصویر\stgan\stgan\obj\Debug\ResolveAssemblyReference.cache
+D:\program\c#\proje_2008\متن_تصویر\stgan\stgan\obj\Debug\stgan.CODING.resources
+D:\program\c#\proje_2008\متن_تصویر\stgan\stgan\obj\Debug\stgan.DECODING.resources
+D:\program\c#\proje_2008\متن_تصویر\stgan\stgan\obj\Debug\stgan.main.resources
+D:\program\c#\proje_2008\متن_تصویر\stgan\stgan\obj\Debug\stgan.Properties.Resources.resources
+D:\proje\ashgan\stgan\stgan\obj\Debug\stgan.exe
+D:\proje\ashgan\stgan\stgan\obj\Debug\stgan.pdb
+D:\proje\ashgan\stgan\stgan\obj\Debug\stgan.csprojResolveAssemblyReference.cache
+D:\proje\ashgan\stgan\stgan\obj\Debug\stgan.CODING.resources
+D:\proje\ashgan\stgan\stgan\obj\Debug\stgan.DECODING.resources
+D:\proje\ashgan\stgan\stgan\obj\Debug\stgan.main.resources
+D:\proje\ashgan\stgan\stgan\obj\Debug\stgan.Properties.Resources.resources
+D:\proje\ashgan\stgan\stgan\obj\Debug\stgan.csproj.GenerateResource.Cache
+D:\proje\ashgan\stgan\stgan\obj\Debug\stgan.set_image.resources
+E:\D\proje\ashgan\stgan\stgan\obj\Debug\stgan.exe
+E:\D\proje\ashgan\stgan\stgan\bin\Debug\stgan.exe
+E:\D\proje\ashgan\stgan\stgan\bin\Debug\stgan.pdb
+E:\D\proje\ashgan\stgan\stgan\obj\Debug\stgan.csprojResolveAssemblyReference.cache
+E:\D\proje\ashgan\stgan\stgan\obj\Debug\stgan.CODING.resources
+E:\D\proje\ashgan\stgan\stgan\obj\Debug\stgan.set_image.resources
+E:\D\proje\ashgan\stgan\stgan\obj\Debug\stgan.DECODING.resources
+E:\D\proje\ashgan\stgan\stgan\obj\Debug\stgan.main.resources
+E:\D\proje\ashgan\stgan\stgan\obj\Debug\stgan.Properties.Resources.resources
+E:\D\proje\ashgan\stgan\stgan\obj\Debug\stgan.csproj.GenerateResource.Cache
+E:\D\proje\ashgan\stgan\stgan\obj\Debug\stgan.pdb
+E:\E\D\proje\ashgan\stgan\stgan\obj\Debug\stgan.exe
+E:\E\D\proje\ashgan\stgan\stgan\obj\Debug\stgan.pdb
+E:\E\D\proje\ashgan\stgan\stgan\bin\Debug\stgan.exe
+E:\E\D\proje\ashgan\stgan\stgan\bin\Debug\stgan.pdb
+E:\E\D\proje\ashgan\stgan\stgan\obj\Debug\stgan.csprojResolveAssemblyReference.cache
+E:\E\D\proje\ashgan\stgan\stgan\obj\Debug\stgan.CODING.resources
+E:\E\D\proje\ashgan\stgan\stgan\obj\Debug\stgan.set_image.resources
+E:\E\D\proje\ashgan\stgan\stgan\obj\Debug\stgan.DECODING.resources
+E:\E\D\proje\ashgan\stgan\stgan\obj\Debug\stgan.main.resources
+E:\E\D\proje\ashgan\stgan\stgan\obj\Debug\stgan.Properties.Resources.resources
+E:\E\D\proje\ashgan\stgan\stgan\obj\Debug\stgan.csproj.GenerateResource.Cache

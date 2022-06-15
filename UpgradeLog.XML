@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="stgan">
+</Property><Property Name="Solution File" Value="D:\program\c#\proje_2008\متن_تصویر\stgan\stgan.sln">
+</Property><Property Name="Date" Value="الإثنين, نوفمبر 04, 2013">
+</Property><Property Name="Time" Value="10:38">
+</Property></Properties><Event ErrorLevel="0" Project="stgan" Source="stgan\stgan.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="stgan" Source="stgan\stgan.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="stgan.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="stgan.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="stgan" Source="stgan\stgan.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
